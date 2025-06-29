@@ -1,3 +1,5 @@
+data: https://drive.google.com/file/d/1IetbB6b-UUTrkieDAh-6Z3eXZ9pKlzlS/view?usp=share_link
+
 sc_data_with_rfm_segments_and_clusters.xlsx
 Содержит данные клиентов с присвоенными RFM-сегментами и результатами кластеризации. Используется для анализа поведения клиентов по частоте, давности и сумме покупок.
 
